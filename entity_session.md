@@ -17,12 +17,12 @@
 
 - eg: I want to reset my password.
 
-    I           | i
-    want        | want
-    to          | to
-    reset       | reset
-    my          | my
-    password    | password
+        I           | i
+        want        | want
+        to          | to
+        reset       | reset
+        my          | my
+        password    | password
 
 # Grouping Tokens
 
